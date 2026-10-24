@@ -1,0 +1,15 @@
+.DS_Store
+/.build
+/DerivedData
+/*.xcarchive
+/.build/XcodeDerivedData
+/*.dSYM
+/*.xcuserstate
+xcuserdata/
+*.xcuserdatad/
+/.swiftpm/xcode/package.xcworkspace/xcuserdata
+/.swiftpm/configuration
+
+# Original demo footage exceeds GitHub 100 MB file limit
+/demo/DJI_20261002111832_0087_D.MP4
+/demo/DJI_20261002111755_0086_D.MP4
